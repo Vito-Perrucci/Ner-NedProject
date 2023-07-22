@@ -1,0 +1,7 @@
+transformers
+spacy
+torch
+numpy
+sentence-transformers
+scikit-learn
+wikipedia-api
